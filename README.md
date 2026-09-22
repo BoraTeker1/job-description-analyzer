@@ -19,7 +19,7 @@ The app streams the response in real time for a smoother user experience.
 ## Tech Stack
 
 * Python
-* OpenAI API
+* OpenAI API (`gpt-4o-mini`, streaming chat completions)
 * Gradio
 * python-dotenv
 
@@ -41,8 +41,8 @@ As a recent Computer Science graduate applying to software engineering and AI-ad
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-job-description-analyzer.git
-cd ai-job-description-analyzer
+git clone https://github.com/BoraTeker1/job-description-analyzer.git
+cd job-description-analyzer
 ```
 
 Create and activate a virtual environment:
